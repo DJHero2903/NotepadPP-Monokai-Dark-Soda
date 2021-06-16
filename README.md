@@ -1,4 +1,4 @@
-# Notepad++-Monokai-Dark-Soda
+# Notepad++ Monokai Dark Soda Theme.
 ## Installation
 1. Download the ``Monokai Dark Soda.xml`` and save it to your desktop.
 2. In notepad++ from the menu bar at the top click on ``settings > import > import style theme(s)`` and select the file you just downloaded from this repository.
