@@ -1,46 +1,4 @@
 <?xml version="1.0" encoding="Windows-1252" ?>
-<!--//
-
-Monokai
-Copyright (c) 2008 Fabio Zendhi Nagao <http://zend.lojcomm.com.br/>
-
-Permission is hereby granted, free of charge, to any person
-obtaining a copy of this software and associated documentation
-files (the "Software"), to deal in the Software without
-restriction, including without limitation the rights to use,
-copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the
-Software is furnished to do so, subject to the following
-conditions:
-
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
-OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
-HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
-
-Requirements:
-    * This style is based on DejaVu fonts <http://dejavu.sourceforge.net/wiki/index.php/Main_Page>.
-    * Notepad++, of course.
-
-Installation:
-    Copy this file to C:\Documents and Settings\%%USERNAME%%\Application Data\Notepad++\
-
-About:
-    This styler has been built by Textmate theme to Notepad++ styler <http://framework.lojcomm.com.br/tmTheme2nppStyler/>
-
-Credits:
-    Thanks for the original Textmate theme author.
-    Thanks for Fabio Zendhi Nagao for the tmTheme2nppStyler.
-    Thanks for the user for the tmTheme source.
-
-//-->
 <NotepadPlus>
     <LexerStyles>
         <LexerType name="c" desc="C" ext="">
@@ -750,8 +708,8 @@ Credits:
     </LexerStyles>
     <GlobalStyles>
         <!-- Attention : Don't modify the name of styleID="0" -->
-        <WidgetStyle name="Global override" styleID="0" fgColor="F8F8F2" bgColor="242424" fontName="SauceCodePro NF" fontStyle="0" fontSize="14" />
-        <WidgetStyle name="Default Style" styleID="32" fgColor="F8F8F2" bgColor="242424" fontName="SauceCodePro NF" fontStyle="0" fontSize="16" />
+        <WidgetStyle name="Global override" styleID="0" fgColor="F8F8F2" bgColor="242424" fontName="Consolas" fontStyle="0" fontSize="14" />
+        <WidgetStyle name="Default Style" styleID="32" fgColor="F8F8F2" bgColor="242424" fontName="Consolas" fontStyle="0" fontSize="16" />
         <WidgetStyle name="Indent guideline style" styleID="37" fgColor="F8F8F2" bgColor="242424" fontName="" fontStyle="0" fontSize="16" />
         <WidgetStyle name="Brace highlight style" styleID="34" fgColor="FFEE99" bgColor="242424" fontName="" fontStyle="1" fontSize="16" />
         <WidgetStyle name="Bad brace colour" styleID="35" fgColor="D3201F" bgColor="242424" fontName="" fontStyle="0" fontSize="16" />
@@ -761,7 +719,7 @@ Credits:
         <WidgetStyle name="Caret colour" styleID="2069" fgColor="F8F8F0" fontStyle="0" bgColor="282A36" fontSize="" />
         <WidgetStyle name="Find Mark Style" styleID="31" fgColor="CC0000" bgColor="EDD400" fontName="" fontStyle="0" fontSize="16" />
         <WidgetStyle name="Edge colour" styleID="0" fgColor="EEEEEC" fontStyle="0" bgColor="282A36" fontSize="" />
-        <WidgetStyle name="Line number margin" styleID="33" fgColor="F8F8F2" bgColor="242424" fontName="SauceCodePro NF" fontStyle="0" fontSize="14" />
+        <WidgetStyle name="Line number margin" styleID="33" fgColor="F8F8F2" bgColor="242424" fontName="Consolas" fontStyle="0" fontSize="14" />
         <WidgetStyle name="Fold" styleID="0" fgColor="242424" bgColor="242424" fontStyle="0" fontSize="" />
         <WidgetStyle name="Fold margin" styleID="0" fgColor="242424" bgColor="242424" fontStyle="0" fontSize="" />
         <WidgetStyle name="White space symbol" styleID="0" fgColor="FCAF3E" fontStyle="0" bgColor="282A36" fontSize="" />
