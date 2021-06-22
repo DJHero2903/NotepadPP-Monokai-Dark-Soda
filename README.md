@@ -8,5 +8,5 @@
 
 
 ## Better Markdown Colouring.
-For better support for markdown syntax highlighting, download the ``markdown._MonokaiDarkSoda.udl .xml`` file and save it in ``%appdata%\Notepad++\userDefineLangs``
-then open a markdown file and from the menu bar at the top click on language then on ``Markdown (Monokai Dark Soda)`` normal text should now apear white instard of dark gray.
+For better support for markdown syntax highlighting, download the ``markdown._MonokaiDarkSoda.udl .xml`` file and save it in ``%appdata%\Notepad++\userDefineLangs`` Now restart Notepad++ if it is ruinning.
+Now open a markdown file and from the menu bar at the top click on language then on ``Markdown (Monokai Dark Soda)`` normal text should now apear white instard of dark gray.
