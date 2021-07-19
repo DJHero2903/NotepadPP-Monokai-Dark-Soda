@@ -719,7 +719,7 @@
         <WidgetStyle name="Caret colour" styleID="2069" fgColor="F8F8F0" fontStyle="0" bgColor="282A36" fontSize="" />
         <WidgetStyle name="Find Mark Style" styleID="31" fgColor="CC0000" bgColor="EDD400" fontName="" fontStyle="0" fontSize="16" />
         <WidgetStyle name="Edge colour" styleID="0" fgColor="EEEEEC" fontStyle="0" bgColor="282A36" fontSize="" />
-        <WidgetStyle name="Line number margin" styleID="33" fgColor="F8F8F2" bgColor="242424" fontName="Consolas" fontStyle="0" fontSize="14" />
+        <WidgetStyle name="Line number margin" styleID="33" fgColor="F8F8F2" bgColor="3D3D3D" fontName="Consolas" fontStyle="0" fontSize="14" />
         <WidgetStyle name="Fold" styleID="0" fgColor="242424" bgColor="242424" fontStyle="0" fontSize="" />
         <WidgetStyle name="Fold margin" styleID="0" fgColor="242424" bgColor="242424" fontStyle="0" fontSize="" />
         <WidgetStyle name="White space symbol" styleID="0" fgColor="FCAF3E" fontStyle="0" bgColor="282A36" fontSize="" />
